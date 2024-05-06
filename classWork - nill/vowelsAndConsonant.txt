@@ -1,0 +1,3 @@
+#vowels and consonant
+
+vowel[a,e,i,o,u]
